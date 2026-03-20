@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מזה-ו-סלטה מביאה לשולחן השבת שלכם את הסלטים הטעימים והטריים ביותר. הזמנת סלטים לשבת בקלות אונליין – בחרו מהתפריט המיוחד שלנו וקבלו משלוח לפני כניסת שבת.
+
+### אודות
+https://example.com/about
+גלו מי אנחנו ולמה אלפי משפחות בוחרות במזה-ו-סלטה לשולחן השבת שלהן. מסורת, טריות ואהבה לאוכל – כל זה בכל מגש סלטים לשבת שאנחנו מכינים עבורכם.
+
+### גלריה
+https://example.com/gallery
+גלריית הסלטים של מזה-ו-סלטה תגרום לכם לרעוב מיד. צבעים, טריות ומגוון שלא תמצאו בשום מקום אחר – צפו בתמונות ואז הזמינו מגש סלטים לשבת שיקשט את השולחן שלכם.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על ההזמנה? רוצים לתאם משלוח סלטים לשישי שבת? צרו קשר עם צוות מזה-ו-סלטה עכשיו ונדאג שהשולחן שלכם יהיה מוכן בזמן ובסטייל.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Maza-w-salata
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Maza-w-salata
+
+### Category
+https://example.com/category/:slug
+מוצרים - Maza-w-salata
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
